@@ -1,6 +1,6 @@
-# Movie App
+# MovieInfo Hub
 
-Movie App is a modern web application that allows users to browse and discover movies. Built with the latest front-end technologies, it fetches movie data from an API and presents it in a responsive, user-friendly interface.
+MovieInfo Hub is a modern web application that allows users to browse and discover movies. Built with the latest front-end technologies, it fetches movie data from an API and presents it in a responsive, user-friendly interface.
 
 ## Live Demo
 
